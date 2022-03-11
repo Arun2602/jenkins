@@ -72,3 +72,8 @@ sudo su
 ls
 sudo su
 exit
+sudo su
+sudo su
+sudo -i
+sudo su
+exit
